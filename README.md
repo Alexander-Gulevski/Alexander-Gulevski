@@ -23,7 +23,7 @@
 </ul>
 <h3>🚣 Projects:</h3>
 <details>
-<summary><b>🔒 TypeScript<b></summary>
+<summary><b>🔒 React and TypeScript<b></summary>
 <ul dir='auto'>
 <li><a href='https://github.com/Alexander-Gulevski/react-budget-app'>Budget App</a></li>
 <li><a href='https://github.com/Alexander-Gulevski/react-tips-calculator'>Tips Calculator</a></li>
