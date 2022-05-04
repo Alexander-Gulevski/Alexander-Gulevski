@@ -4,7 +4,7 @@
 <ul dir='auto'>
 <li>🎓 I’m currently Front-end developer</li>
 <li>☺️ Open to meeting new people</li>
-<li>🦘Doing trampoline jumping</li>
+<li>🦘 Doing trampoline jumping</li>
 </ul>
 <h3>📇 Contacts</h3>
 <ul dir='auto'>
