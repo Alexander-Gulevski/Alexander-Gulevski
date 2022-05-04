@@ -6,18 +6,17 @@
 <li>☺️ Open to meeting new people</li>
 <li>🦘Doing trampoline jumping</li>
 </ul>
-<br/>
 <h3>📇 Contacts</h3>
 <ul dir='auto'>
 <li>Mail.ru: alexander.gulevski.job@mail.ru</li>
 <li>LinkedIn: <a href='https://www.linkedin.com/feed/'>Alexander Gulevski</a></li>
 </ul>
-<br/>
 <h3>⏳ My technology skills</h3>
 <ul dir='auto'>
 <li><b>Javascript<b></li>
-<li><b>Typescript<b></li>
+<li><b>Typescript<b></li>Redux
 <li><b>React<b></li>
+<li><b>Redux<b></li>
 <li><b>HTML/CSS/SCSS<b></li>
 <li><b>Styled components<b></li>
 <li><b>Bootstrap<b></li>
@@ -52,7 +51,6 @@
 </ul>
 </details>
 
-<br/>
 <details>
 <summary><h3>⚡ Statistics:</h3></summary>
 <ul dir='auto'>
