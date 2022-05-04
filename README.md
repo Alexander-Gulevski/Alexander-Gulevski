@@ -1,20 +1,18 @@
-<details>
-<summary><b>🤵 About me:<b></summary>
+Hi! I'm Alexander Gulevski 👋
+<br/>
+<b>🤵 About me:<b>
 <ul dir='auto'>
 <li>🎓 I’m currently learning Javascript/React/Typescript</li>
 <li>☺️ Open to meeting new people</li>
 <li>🦘Doing trampoline jumping</li>
 </ul>
-</details>
-
-<details>
-<summary><b>📇Contacts<b></summary>
+<br/>
+<b>📇Contacts<b>
 <ul dir='auto'>
 <li>Mail.ru: alexander.gulevski.job@mail.ru</li>
 <li>LinkedIn: <a href='https://www.linkedin.com/feed/'>Alexander Gulevski</a></li>
 </ul>
-</details>
-
+<br/>
 <details>
 <summary><b>🔒TypeScript Projects<b></summary>
 <ul dir='auto'>
