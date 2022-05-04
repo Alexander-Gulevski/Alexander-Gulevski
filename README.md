@@ -1,7 +1,30 @@
 ### Hi there 👋
+<details>
+<summary><b>TypeScript Projects<b></summary>
+<ul>
+<li>[Budget App](https://github.com/Alexander-Gulevski/react-budget-app)</li>
+<li>[Tips Calculator](https://github.com/Alexander-Gulevski/react-tips-calculator)</li>
+<li>[Country List](https://github.com/Alexander-Gulevski/react-country-list)</li>
+</ul>
+<details>
+<summary><b>JS Projects<b></summary>
+<ul>
+<li>[Calculator](https://github.com/Alexander-Gulevski/Culc)</li>
+<li>[Todo](https://github.com/Alexander-Gulevski/Todo)</li>
+<li>[Form](https://github.com/Alexander-Gulevski/Form1)</li>
+</ul>
+</details>
+<summary><b>SASS and CSS Projects<b></summary>
+<ul>
+<li>[Power](https://github.com/Alexander-Gulevski/react-power-implicity)</li>
+<li>[ACTIVEBOX](https://github.com/Alexander-Gulevski/ACTIVEBOX)</li>
+<li>[AXITT](https://github.com/Alexander-Gulevski/AXITT)</li>
+<li>[My first project](https://github.com/Alexander-Gulevski/starter)</li>
 
-<details display="flex">
-<summary ><b>Statistics:<b></summary>
+</ul>
+</details>
+<details>
+<summary><b>Statistics:<b></summary>
 <ul>
 <li><img alt='GitHub Stats' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Gulevski&exclude_repo=starter,AXITT,Alexander-Gulevski.github.io&hide=HTML&layout=compact'></li>
 <br />
