@@ -3,9 +3,9 @@
 <details display="flex">
 <summary ><b>Statistics:<b></summary>
 <ul>
-<li><img align='left' alt='GitHub Stats' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Gulevski&exclude_repo=starter,AXITT,Alexander-Gulevski.github.io&hide=HTML&layout=compact'></li>
+<li><img alt='GitHub Stats' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Gulevski&exclude_repo=starter,AXITT,Alexander-Gulevski.github.io&hide=HTML&layout=compact'></li>
 <br />
-<li><img align='left' alt='GitHub Counter users' src='https://komarev.com/ghpvc/?username=Alexander-Gulevski'></li>
+<li><img alt='GitHub Counter users' src='https://komarev.com/ghpvc/?username=Alexander-Gulevski'></li>
 </details>
 </ul>
 <!--
