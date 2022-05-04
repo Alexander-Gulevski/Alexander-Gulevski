@@ -4,7 +4,7 @@
 <ul>
 <li>![Budget App](https://github.com/Alexander-Gulevski/react-budget-app)</li>
 <li>[Tips Calculator]:(https://github.com/Alexander-Gulevski/react-tips-calculator)</li>
-<li>[[Country List](https://github.com/Alexander-Gulevski/react-country-list)</li>
+<li>[[Country List](https://github.com/Alexander-Gulevski/react-country-list)]</li>
 </ul>
 </details>
 
