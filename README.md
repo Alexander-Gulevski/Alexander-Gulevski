@@ -1,16 +1,23 @@
-### Hi there 👋
+<details>
+<summary><b>🤵 About me:<b></summary>
+<ul dir='auto'>
+<li>🎓 I’m currently learning Javascript/React/Typescript</li>
+<li>☺️ Open to meeting new people</li>
+<li>🦘Doing trampoline jumping</li>
+</ul>
+</details>
+
 <details>
 <summary><b>📇Contacts<b></summary>
 <ul dir='auto'>
 <li>Mail.ru: alexander.gulevski.job@mail.ru</li>
-<li>LinkedIn: <a href='https://www.linkedin.com/feed/'>AlexanderXolod</a></li>
-
+<li>LinkedIn: <a href='https://www.linkedin.com/feed/'>Alexander Gulevski</a></li>
 </ul>
 </details>
+
 <details>
 <summary><b>🔒TypeScript Projects<b></summary>
 <ul dir='auto'>
-
 <li><a href='https://github.com/Alexander-Gulevski/react-budget-app'>Budget App</a></li>
 <li><a href='https://github.com/Alexander-Gulevski/react-tips-calculator'>Tips Calculator</a></li>
 <li><a href='https://github.com/Alexander-Gulevski/react-country-list'>Country List</a></li>
