@@ -1,7 +1,11 @@
 ### Hi there 👋
+<details>
+<summary>Statistics:</summary>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Gulevski&exclude_repo=starter,AXITT,Alexander-Gulevski.github.io&hide=HTML&layout=compact)
+<br />
+![counter](https://komarev.com/ghpvc/?username=Alexander-Gulevski) 
+</details>
 
-![counter](https://komarev.com/ghpvc/?username=Alexander-Gulevski)
 <!--
 **Alexander-Gulevski/Alexander-Gulevski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
