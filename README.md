@@ -41,7 +41,7 @@
 </details>
 
 <details>
-<summary><b>💻 SASS and CSS<b></summary>
+<summary><b>💻 SCSS and CSS<b></summary>
 <ul dir='auto'>
 <li><a href='https://github.com/Alexander-Gulevski/react-power-implicity'>Power</a></li>
 <li><a href='https://github.com/Alexander-Gulevski/ACTIVEBOX'>ACTIVEBOX</a></li>
