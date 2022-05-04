@@ -7,8 +7,8 @@
 </ul>
 <h3>📇 Contacts</h3>
 <ul dir='auto'>
-<li>Mail.ru: alexander.gulevski.job@mail.ru</li>
-<li>LinkedIn: <a href='https://www.linkedin.com/feed/'>Alexander Gulevski</a></li>
+<li><b>Mail.ru:</b> alexander.gulevski.job@mail.ru</li>
+<li><b>LinkedIn:</b> <a href='https://www.linkedin.com/feed/'>Alexander Gulevski</a></li>
 </ul>
 <h3>⏳ My technology skills</h3>
 <ul dir='auto'>
@@ -32,7 +32,7 @@
 </details>
 
 <details>
-<summary><b>👨‍💻 JS<b></summary>
+<summary><b>👨‍💻 JavaScript<b></summary>
 <ul dir='auto'>
 <li><a href='https://github.com/Alexander-Gulevski/Culc'>Calculator</a></li>
 <li><a href='https://github.com/Alexander-Gulevski/Todo'>Todo</a></li>
