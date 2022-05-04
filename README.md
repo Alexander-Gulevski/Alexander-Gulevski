@@ -14,7 +14,7 @@
 <h3>⏳ My technology skills</h3>
 <ul dir='auto'>
 <li><b>Javascript<b></li>
-<li><b>Typescript<b></li>Redux
+<li><b>Typescript<b></li>
 <li><b>React<b></li>
 <li><b>Redux<b></li>
 <li><b>HTML/CSS/SCSS<b></li>
