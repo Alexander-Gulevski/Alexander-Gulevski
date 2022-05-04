@@ -7,14 +7,13 @@
 <li>🦘Doing trampoline jumping</li>
 </ul>
 <br/>
-<b>📇Contacts<b>
+<b>📇 Contacts<b>
 <ul dir='auto'>
 <li>Mail.ru: alexander.gulevski.job@mail.ru</li>
 <li>LinkedIn: <a href='https://www.linkedin.com/feed/'>Alexander Gulevski</a></li>
 </ul>
-<br/>
 
-<h3>Projects:</h3>
+<h3>🚣 Projects:</h3>
 <details>
 <summary><b>🔒 TypeScript<b></summary>
 <ul dir='auto'>
