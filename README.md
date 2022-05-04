@@ -13,8 +13,9 @@
 <li>LinkedIn: <a href='https://www.linkedin.com/feed/'>Alexander Gulevski</a></li>
 </ul>
 <br/>
-<details>
+
 <h3>Projects:<h3>
+<details>
 <summary><b>🔒 TypeScript<b></summary>
 <ul dir='auto'>
 <li><a href='https://github.com/Alexander-Gulevski/react-budget-app'>Budget App</a></li>
