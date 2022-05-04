@@ -14,7 +14,7 @@
 </ul>
 <br/>
 
-<h3>Projects:<h3>
+<h3>Projects:</h3>
 <details>
 <summary><b>🔒 TypeScript<b></summary>
 <ul dir='auto'>
