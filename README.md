@@ -1,6 +1,7 @@
 ### Hi there 👋
 <details>
 <summary>Statistics:</summary>
+<img align='left' alt='GitHub Stats' href='https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Gulevski&exclude_repo=starter,AXITT,Alexander-Gulevski.github.io&hide=HTML&layout=compact'>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Gulevski&exclude_repo=starter,AXITT,Alexander-Gulevski.github.io&hide=HTML&layout=compact)
 <br />
 ![counter](https://komarev.com/ghpvc/?username=Alexander-Gulevski) 
