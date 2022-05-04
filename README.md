@@ -2,10 +2,10 @@
 
 <details>
 <summary ><b>Statistics:<b></summary>
-<img align='left' alt='GitHub Stats' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Gulevski&exclude_repo=starter,AXITT,Alexander-Gulevski.github.io&hide=HTML&layout=compact'>
+<li><img align='left' alt='GitHub Stats' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Gulevski&exclude_repo=starter,AXITT,Alexander-Gulevski.github.io&hide=HTML&layout=compact'></li>
 <br />
-<img align='left' alt='GitHub Counter users' src='https://komarev.com/ghpvc/?username=Alexander-Gulevski'>
-</details>
+<li><img align='left' alt='GitHub Counter users' src='https://komarev.com/ghpvc/?username=Alexander-Gulevski'>
+</details></li>
 
 <!--
 **Alexander-Gulevski/Alexander-Gulevski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
