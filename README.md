@@ -14,7 +14,8 @@
 </ul>
 <br/>
 <details>
-<summary><b>🔒 TypeScript Projects<b></summary>
+<h3>Projects:<h3>
+<summary><b>🔒 TypeScript<b></summary>
 <ul dir='auto'>
 <li><a href='https://github.com/Alexander-Gulevski/react-budget-app'>Budget App</a></li>
 <li><a href='https://github.com/Alexander-Gulevski/react-tips-calculator'>Tips Calculator</a></li>
@@ -23,7 +24,7 @@
 </details>
 
 <details>
-<summary><b>👨‍💻 JS Projects<b></summary>
+<summary><b>👨‍💻 JS<b></summary>
 <ul dir='auto'>
 <li><a href='https://github.com/Alexander-Gulevski/Culc'>Calculator</a></li>
 <li><a href='https://github.com/Alexander-Gulevski/Todo'>Todo</a></li>
@@ -32,7 +33,7 @@
 </details>
 
 <details>
-<summary><b>💻 SASS and CSS Projects<b></summary>
+<summary><b>💻 SASS and CSS<b></summary>
 <ul dir='auto'>
 <li><a href='https://github.com/Alexander-Gulevski/react-power-implicity'>Power</a></li>
 <li><a href='https://github.com/Alexander-Gulevski/ACTIVEBOX'>ACTIVEBOX</a></li>
