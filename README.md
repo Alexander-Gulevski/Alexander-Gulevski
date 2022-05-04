@@ -1,18 +1,28 @@
 <h1><u>Hiya! I'm Alexander Gulevski 👋</u></h1>
 <br/>
-<b>🤵 About me:<b>
+<h3>🤵 About me:</h3>
 <ul dir='auto'>
 <li>🎓 I’m currently Front-end developer</li>
 <li>☺️ Open to meeting new people</li>
 <li>🦘Doing trampoline jumping</li>
 </ul>
 <br/>
-<b>📇 Contacts<b>
+<h3>📇 Contacts</h3>
 <ul dir='auto'>
 <li>Mail.ru: alexander.gulevski.job@mail.ru</li>
 <li>LinkedIn: <a href='https://www.linkedin.com/feed/'>Alexander Gulevski</a></li>
 </ul>
-
+<br/>
+<h3>⏳ My technology skills</h3>
+<ul dir='auto'>
+<li><b>Javascript<b></li>
+<li><b>Typescript<b></li>
+<li><b>React<b></li>
+<li><b>HTML/CSS/SCSS<b></li>
+<li><b>Styled components<b></li>
+<li><b>Bootstrap<b></li>
+<li><b>Will be added... ⏳<b></li>
+</ul>
 <h3>🚣 Projects:</h3>
 <details>
 <summary><b>🔒 TypeScript<b></summary>
@@ -44,7 +54,7 @@
 
 <br/>
 <details>
-<summary><b>⚡ Statistics:<b></summary>
+<summary><h3>⚡ Statistics:</h3></summary>
 <ul dir='auto'>
 <li><a href=''> </a><img alt='GitHub Stats' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Gulevski&exclude_repo=starter,AXITT,Alexander-Gulevski.github.io&hide=HTML&layout=compact'></li>
 <br />
