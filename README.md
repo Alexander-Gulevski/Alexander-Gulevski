@@ -2,7 +2,9 @@
 <details>
 <summary><b>📇Contacts<b></summary>
 <ul dir='auto'>
-<li>Mail.ru:alexander.gulevski.job@mail.ru</li>
+<li>Mail.ru: alexander.gulevski.job@mail.ru</li>
+<li>LinkedIn: <a href='https://www.linkedin.com/feed/'>AlexanderXolod</a></li>
+
 </ul>
 </details>
 <details>
