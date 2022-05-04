@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Gulevski&exclude_repo=starter,AXITT,Form1,Alexander-Gulevski.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Gulevski&exclude_repo=starter,AXITT,Alexander-Gulevski.github.io&hide=HTML)
 <!--
 **Alexander-Gulevski/Alexander-Gulevski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
