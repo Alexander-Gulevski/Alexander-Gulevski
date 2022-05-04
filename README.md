@@ -2,7 +2,7 @@
 <br/>
 <b>🤵 About me:<b>
 <ul dir='auto'>
-<li>🎓 I’m currently learning Javascript/React/Typescript</li>
+<li>🎓 I’m currently working and learning Javascript/React/Typescript</li>
 <li>☺️ Open to meeting new people</li>
 <li>🦘Doing trampoline jumping</li>
 </ul>
