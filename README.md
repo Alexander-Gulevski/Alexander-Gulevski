@@ -1,5 +1,4 @@
 <h1><u>Hiya! I'm Alexander Gulevski 👋</u></h1>
-<br/>
 <h3>🤵 About me:</h3>
 <ul dir='auto'>
 <li>🎓 I’m currently Front-end developer</li>
