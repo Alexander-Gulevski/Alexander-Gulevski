@@ -14,8 +14,8 @@
 <ul dir='auto'>
 <li><b>Javascript<b></li>
 <li><b>Typescript<b></li>
-<li><b>React Toolkit<b></li>
-<li><b>Redux<b></li>
+<li><b>React<b></li>
+<li><b>Redux Toolkit<b></li>
 <li><b>HTML/CSS/SCSS<b></li>
 <li><b>Styled components<b></li>
 <li><b>Bootstrap<b></li>
