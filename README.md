@@ -9,7 +9,7 @@
 <ul dir='auto'>
 <li><b>Mail.ru:</b> alexander.gulevski.job@mail.ru</li>
 <li><b>LinkedIn:</b> <a href='https://www.linkedin.com/in/alexander-gulevski-768412220/'>Alexander Gulevski</a></li>
-<li><b>Telegram:</b> <a href='https://t.me/+375295591808'>@Alexander_Xolod</a></li>
+<li><b>Telegram:</b> <a href='https://t.me/Alexander_Xolod'>@Alexander_Xolod</a></li>
 </ul>
 <h3>⏳ My technology skills</h3>
 <ul dir='auto'>
