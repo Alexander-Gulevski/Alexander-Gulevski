@@ -4,6 +4,7 @@
 <li>🎓 I’m currently Front-end developer</li>
 <li>☺️ Open to meeting new people</li>
 <li>🦘 Doing trampoline jumping</li>
+<li>Link to my online resume: <a href=https://drive.google.com/file/d/1s6sTeuT6OyFpxoUcUouFNql-957TKst5/view?usp=share_link'>CV</a></li>
 </ul>
 <h3>📇 Contacts</h3>
 <ul dir='auto'>
@@ -40,6 +41,7 @@
 <li><a href='https://github.com/Alexander-Gulevski/Culc'>Calculator</a></li>
 <li><a href='https://github.com/Alexander-Gulevski/Todo'>Todo</a></li>
 <li><a href='https://github.com/Alexander-Gulevski/Form1'>Form</a></li>
+<li><a href='https://github.com/Alexander-Gulevski/Miniware'>Miniware</a></li>
 </ul>
 </details>
 
