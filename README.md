@@ -16,9 +16,9 @@
 <li><b>Javascript<b></li>
 <li><b>Typescript<b></li>
 <li><b>React<b></li>
-<li><b>Vue<b></li>
+<li><b>Vue.js<b></li>
 <li><b>Redux Toolkit<b></li>
-li><b>PHP<b></li>
+<li><b>PHP<b></li>
 <li><b>HTML/CSS/SCSS<b></li>
 <li><b>Styled components<b></li>
 <li><b>Bootstrap<b></li>
