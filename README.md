@@ -4,7 +4,7 @@
 <li>🎓 I’m currently Front-end developer</li>
 <li>☺️ Open to meeting new people</li>
 <li>🦘 Doing trampoline jumping</li>
-<li>📃 <b>My online resume:</b> <a href=https://drive.google.com/file/d/1s6sTeuT6OyFpxoUcUouFNql-957TKst5/view?usp=share_link'>CV</a></li>
+<li>📃 <b>My online </b> <a href=https://drive.google.com/file/d/1s6sTeuT6OyFpxoUcUouFNql-957TKst5/view?usp=share_link'>CV</a></li>
 </ul>
 <h3>📇 Contacts</h3>
 <ul dir='auto'>
