@@ -4,13 +4,13 @@
 <li>🎓 I’m currently Front-end developer</li>
 <li>☺️ Open to meeting new people</li>
 <li>🦘 Doing trampoline jumping</li>
-<li>Link to my online resume: <a href=https://drive.google.com/file/d/1s6sTeuT6OyFpxoUcUouFNql-957TKst5/view?usp=share_link'>CV</a></li>
 </ul>
 <h3>📇 Contacts</h3>
 <ul dir='auto'>
 <li><b>Mail.ru:</b> alexander.gulevski.job@mail.ru</li>
 <li><b>LinkedIn:</b> <a href='https://www.linkedin.com/in/alexander-gulevski-768412220/'>Alexander Gulevski</a></li>
 <li><b>Telegram:</b> <a href='https://t.me/Alexander_Xolod'>@Alexander_Xolod</a></li>
+<li><b>My online resume:</b> <a href=https://drive.google.com/file/d/1s6sTeuT6OyFpxoUcUouFNql-957TKst5/view?usp=share_link'>CV</a></li>
 </ul>
 <h3>⏳ My technology skills</h3>
 <ul dir='auto'>
